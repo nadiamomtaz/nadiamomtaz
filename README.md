@@ -1,6 +1,6 @@
 ## 
-Bioengineering & CS student at Johns Hopkins 
-Interested in computational biology and tech-bio investing!
+- Bioengineering & CS student at Johns Hopkins 
+- Interested in computational biology and tech-bio investing!
 
 <!--
 **nadiamomtaz/nadiamomtaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
